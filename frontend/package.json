@@ -10,7 +10,7 @@
     "start": "vite"
   },
   "dependencies": {
-    "@ant-design/plots": "1.2.1",
+    "@ant-design/plots": "1.2.2",
     "@ant-design/pro-components": "1.1.16",
     "@radix-ui/react-popover": "1.0.0",
     "@radix-ui/react-separator": "1.0.0",
